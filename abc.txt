@@ -1,3 +1,7 @@
 text add by arvindkumar6568
+<<<<<<< HEAD
 it is a develop branch
 hello develop
+=======
+it is a develop2 branch
+>>>>>>> develop2
