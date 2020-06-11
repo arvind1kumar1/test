@@ -1,9 +1,3 @@
 text add by arvindkumar6568
 it is a develop branch
-<<<<<<< HEAD
 hello develop
-=======
-hi
-hello develop\
-hello
->>>>>>> develop
